@@ -1,9 +1,12 @@
-#include<iostream>
+#include <iostream>
+
 using namespace std;
 
 int main()
 {
 
-    cout<<"Hellow World";
+    std::cout << "Hello world";
+    std::cout << "Hello world";
+    std::cout << "Hello world";
     return 0;
 }
